@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/NLXTL---BT/',
+    base: '/GEMINI_API_KEY/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
